@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "EXPO_BASE_URL": ""
+    }
+  },
+  "github": {
+    "silent": true
+  }
+}
