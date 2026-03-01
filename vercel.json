@@ -1,9 +1,8 @@
 {
-  "build": {
-    "env": {
-      "EXPO_BASE_URL": ""
-    }
-  },
+  "buildCommand": "npx expo export --platform web",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": null,
   "github": {
     "silent": true
   }
